@@ -126,9 +126,9 @@ Mappings:
       Glacier: 'true'
   AWSAMIRegionMap:
     AMI:
-      AMZNLINUXHVM: amzn-ami-hvm-2018.03.0.20190514-x86_64-gp2
+      AMZNLINUXHVM: amzn-ami-hvm-2018.03.0.20190611-x86_64-gp2
     ap-southeast-1:
-      AMZNLINUXHVM: ami-03097abf0db1cdff2
+      AMZNLINUXHVM: ami-0fb6b6f9e81056553
       InstanceType: m4.large
       InstanceTypeDatabase: db.m4.large
     us-gov-west-1:
