@@ -128,7 +128,7 @@ Mappings:
     AMI:
       AMZNLINUXHVM: amzn-ami-hvm-2018.03.0.20190611-x86_64-gp2
     ap-southeast-1:
-      AMZNLINUXHVM: ami-0fb6b6f9e81056553
+      AMZNLINUXHVM: ami-05c859630889c79c8
       InstanceType: m4.large
       InstanceTypeDatabase: db.m4.large
     us-gov-west-1:
